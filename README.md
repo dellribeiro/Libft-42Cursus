@@ -2,7 +2,12 @@
 
 ##### ***YOUR VERY FIRST OWN LIBRARY\***
 
-------
+![Logo](https://github.com/dellribeiro/Libft-42Cursus/blob/main/Badge/libftm.png) 
+##  Status
+
+ **Finished**
+
+Grade: **125/100** ✅
 
 ## 💡 About the project
 
